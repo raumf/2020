@@ -31,3 +31,4 @@ Part of the pull request should be instructions of any changes ( settings in wp-
 
 We will then review the changes, merge them first into staging for testing purposes and then finally into master forgoing live.
 
+---
